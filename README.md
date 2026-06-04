@@ -6,7 +6,7 @@
   $\small\textcolor{#E7DBC5}{\textsf{truth}}$
 
 <p align="center">
-<img height="400" width="400" src= "https://files.catbox.moe/o0201u.png">
+<img height="400" width="400" src= "https://files.catbox.moe/b85vr1.jpg">
 
 <p align="center">
 $\small\textcolor{#B7B8BC}{\textsf{pls check}}$
@@ -14,8 +14,7 @@ $\small\textcolor{#E7DBC5}{\textsf{out our}}$
 $\small\textcolor{#AAB0AE}{\textsf{prn page}}$
 $\small\textcolor{#CBC8C3}{\textsf{before int}}$
 
-<p align="center">
-<img height="100" width="100" src= "https://files.catbox.moe/h1au20.png">
+
 
 <p align="Center">
 <a href="https://hits.sh/github.com/PoobKitty/"><img alt="Hits" src="https://hits.sh/github.com/PoobKitty.svg?style=flat-square&label=%E2%81%A0%E2%9C%A7Sage&extraCount=221&color=E7DBC5&labelColor=B7B8BC"/></a>
