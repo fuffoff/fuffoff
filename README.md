@@ -22,3 +22,4 @@ $\small\textcolor{#CBC8C3}{\textsf{before int}}$
 <p align="center">
 <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=CBC8C3&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
 <a href="https://en.pronouns.page/@fuffoff"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=E7DBC5&center=true&vCenter=true&width=200&height=30&lines=prns.page" alt="Typing SVG" /></a>
+<a href="https://radiocative.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=E7DBC5&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
