@@ -1,9 +1,9 @@
 <p align="center">
 	<a href="https://hits.sh/github.com/PoobKitty/"><img alt="Hits" src="https://hits.sh/github.com/PoobKitty.svg?style=for-the-badge&label=radiocative&extraCount=665&color=818984&labelColor=71454C"/></a>
 <p align="center">
-  $\small\textcolor{#775D63}{\textsf{be our}}$
-  $\small\textcolor{#71454C}{\textsf{sage of}}$
-  $\small\textcolor{#7E7A7A}{\textsf{truth}}$
+  $\small\textcolor{#775D63}{\textsf{c+h anyone}}$
+  $\small\textcolor{#71454C}{\textsf{most often safk/}}$
+  $\small\textcolor{#7E7A7A}{\textsf{offtab}}$
 
 <p align="center">
 <img height="400" width="400" src= "https://files.catbox.moe/v1b0yp.png">
